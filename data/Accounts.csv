@@ -1,0 +1,21 @@
+Account_ID,Account_Name,Industry,Tier,ARR
+ACC-1000,Acme Corp,Tech,Enterprise,120000
+ACC-1001,Wood Group,Healthcare,Standard,13278
+ACC-1002,Green and Sons,Healthcare,Pro,42098
+ACC-1003,"Payne, Robinson and Martin",Retail,Standard,23434
+ACC-1004,Reed Ltd,Healthcare,Standard,65302
+ACC-1005,Benitez LLC,Retail,Standard,22280
+ACC-1006,Hernandez-Brown,Retail,Standard,76237
+ACC-1007,"Frazier, Weeks and Leach",Healthcare,Standard,36062
+ACC-1008,Campbell PLC,Healthcare,Pro,38893
+ACC-1009,"Simmons, Saunders and Sanders",Finance,Pro,10851
+ACC-1010,Smith-Williams,Retail,Pro,54597
+ACC-1011,"Walker, Chen and Bell",Finance,Standard,38221
+ACC-1012,Brown-Martin,Finance,Standard,22156
+ACC-1013,Erickson-Davis,Finance,Standard,57052
+ACC-1014,Clark and Sons,Finance,Pro,15695
+ACC-1015,Carroll Group,Healthcare,Pro,26361
+ACC-1016,"Diaz, White and Johnson",Finance,Standard,48427
+ACC-1017,Woods-Miranda,Healthcare,Pro,35203
+ACC-1018,"Wright, Mills and Brewer",Healthcare,Standard,16006
+ACC-1019,Escobar-Hayes,Healthcare,Standard,47930
